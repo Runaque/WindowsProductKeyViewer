@@ -3,6 +3,7 @@
 A simple tool to extract the Windows Product Key from a system by just running the app and saving it away into a text file.
 The app hides the Product Key in the app, but will show it when hovering above it with your mouse.
 
+
 ![Screenshot 2025-01-25 143327](https://github.com/user-attachments/assets/0c22f4dd-077a-4f10-8b96-2482626a58da)
 
 ![Screenshot 2025-01-25 143115](https://github.com/user-attachments/assets/929c7380-a433-4257-906f-563ade09f839)
